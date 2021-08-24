@@ -4,7 +4,7 @@ Bad Bank
 <h2>Description/Motivation:</h2>
 This application simulates a bank app.  There is no actual bank behind this application, but one may use it to track their personal or business bank accounts.
 <h2>Installation Guidelines:</h2>
-Clone the main branch.  Open the app in VSCode.  Then run <code>node index.js</code>
+Clone the main branch.  Open the app in VSCode.  Open a terminal.  Run <code>npm install</code> then run <code>node index.js</code>
 <h2>Screenshots:</h2>
 Screenshots or a GIF of your project in action.
 <h2>Technology used:<h2>
